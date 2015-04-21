@@ -1,2 +1,3 @@
-print(3*5)
-print(3-2)
+name = input("Name?" )
+cijfer = input("how many greetings?" )
+print(cijfer + ' x Hello, ' + name)
