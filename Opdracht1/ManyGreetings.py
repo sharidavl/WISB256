@@ -1,3 +1,3 @@
 name = input("Name? " )
-cijfer = input("how many greetings? " )
+cijfer = input("How many greetings? " )
 print(cijfer + ' x Hello, ' + name)
